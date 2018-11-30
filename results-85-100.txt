@@ -1,0 +1,64 @@
+i=85
+nohup: ignoring input and appending output to 'nohup.out'
+map                   	all	0.1745
+P_30                  	all	0.2319
+i=86
+nohup: ignoring input and appending output to 'nohup.out'
+map                   	all	0.1851
+P_30                  	all	0.2459
+i=87
+nohup: ignoring input and appending output to 'nohup.out'
+map                   	all	0.1964
+P_30                  	all	0.2521
+i=88
+nohup: ignoring input and appending output to 'nohup.out'
+map                   	all	0.2080
+P_30                  	all	0.2671
+i=89
+nohup: ignoring input and appending output to 'nohup.out'
+map                   	all	0.2137
+P_30                  	all	0.2732
+i=90
+nohup: ignoring input and appending output to 'nohup.out'
+map                   	all	0.2228
+P_30                  	all	0.2818
+i=91
+nohup: ignoring input and appending output to 'nohup.out'
+map                   	all	0.2270
+P_30                  	all	0.2851
+i=92
+nohup: ignoring input and appending output to 'nohup.out'
+map                   	all	0.2327
+P_30                  	all	0.2954
+i=93
+nohup: ignoring input and appending output to 'nohup.out'
+map                   	all	0.2402
+P_30                  	all	0.3025
+i=94
+nohup: ignoring input and appending output to 'nohup.out'
+map                   	all	0.2442
+P_30                  	all	0.3054
+i=95
+nohup: ignoring input and appending output to 'nohup.out'
+map                   	all	0.2482
+P_30                  	all	0.3114
+i=96
+nohup: ignoring input and appending output to 'nohup.out'
+map                   	all	0.2483
+P_30                  	all	0.3108
+i=97
+nohup: ignoring input and appending output to 'nohup.out'
+map                   	all	0.2487
+P_30                  	all	0.3118
+i=98
+nohup: ignoring input and appending output to 'nohup.out'
+map                   	all	0.2492
+P_30                  	all	0.3122
+i=99
+nohup: ignoring input and appending output to 'nohup.out'
+map                   	all	0.2500
+P_30                  	all	0.3123
+i=100
+nohup: ignoring input and appending output to 'nohup.out'
+map                   	all	0.2501
+P_30                  	all	0.3123
